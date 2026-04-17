@@ -1,0 +1,11 @@
+{
+  "name": "AI-POWERED AUTOMATED SEGREGATION AND INNOVATION BINS",
+  "description": "AI-powered automated waste segregation system that classifies waste into Paper, Plastic, Metal, Organic, and Glass using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Classification",
+    "Real-time Detection"
+  ]
+}
